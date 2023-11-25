@@ -1,5 +1,3 @@
-# Salary-Prediction-Project 🌐💸
-
 # Predictive Payrolls: Unleashing AI Magic for Employee Compensation 🚀💰
 
 Project Purpose -
